@@ -1,6 +1,9 @@
 # void-object
 Python Void Object
 
+### install
+`pip install void-object`
+
 ### Example use case:
 
 ```python
@@ -13,5 +16,4 @@ void.random_attribute
 void['asd'][1]
 with void as ctx:
     ctx.asd()
-
 ```
