@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "void-object"
-version = "0.1.2"
+version = "0.1.3"
 description = "Void Object for Python"
 authors = ["Federico Marcos <marcosfede@gmail.com>"]
+repository = "https://github.com/marcosfede/void-object"
+homepage = "https://github.com/marcosfede/void-object"
+keywords = ['void', 'null pattern', 'null object', 'proxy']
+readme = 'README.md'  # Markdown files are supported
 
 [tool.poetry.dependencies]
 python = "^3.4"
